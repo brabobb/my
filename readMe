@@ -1,4 +1,6 @@
 
+https://dacon.io/competitions/official/9565/data/
+
 train.csv - 의료기관이 폐업했는지 여부를 포함하여 최근 2개년의 재무정보와 병원 기본정보 
 
 test.csv - 폐업 여부를 제외하고 train.csv와 동일 
